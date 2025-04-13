@@ -16,7 +16,6 @@ salary-prediction-app/
 │
 ├── app.py                    # Flask backend
 ├── index.html                # Frontend template
-├── requirements.txt          # List of Python packages
 ├── salary_model.pkl          # Saved ML model
 ├── x_scaler.pkl              # Scaler for input features
 ├── y_scaler.pkl              # Scaler for output salary
